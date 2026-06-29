@@ -1,0 +1,30 @@
+.footer{
+padding:70px 8%;
+background:#111;
+color:white;
+text-align:center;
+}
+
+.footer h2{
+font-family:"Cormorant Garamond",serif;
+font-size:42px;
+margin-bottom:15px;
+}
+
+.footer p{
+color:#bbb;
+margin-bottom:30px;
+}
+
+.footer hr{
+margin:30px auto;
+width:60%;
+border:none;
+height:1px;
+background:#444;
+}
+
+.footer span{
+color:#888;
+font-size:14px;
+}

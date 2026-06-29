@@ -1,0 +1,65 @@
+.whyme{
+
+padding:140px 8%;
+
+display:grid;
+
+grid-template-columns:1fr 1fr;
+
+gap:80px;
+
+align-items:center;
+
+background:#f8f6f2;
+
+}
+
+.whyme p{
+
+letter-spacing:4px;
+
+color:#A67C52;
+
+margin-bottom:15px;
+
+}
+
+.whyme h2{
+
+font-size:70px;
+
+font-family:"Cormorant Garamond",serif;
+
+line-height:1.1;
+
+}
+
+.whyme ul{
+
+list-style:none;
+
+}
+
+.whyme li{
+
+font-size:20px;
+
+margin-bottom:22px;
+
+padding:18px;
+
+background:white;
+
+border-radius:15px;
+
+border:1px solid #ebe7df;
+
+transition:.3s;
+
+}
+
+.whyme li:hover{
+
+transform:translateX(10px);
+
+}

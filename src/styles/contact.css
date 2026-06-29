@@ -1,0 +1,74 @@
+.contact{
+padding:140px 8%;
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:70px;
+background:#fff;
+}
+
+.contact-left p:first-child{
+letter-spacing:4px;
+color:#A67C52;
+margin-bottom:15px;
+}
+
+.contact-left h2{
+font-size:65px;
+font-family:"Cormorant Garamond",serif;
+line-height:1.1;
+margin-bottom:25px;
+}
+
+.contact-text{
+color:#666;
+line-height:30px;
+margin-bottom:40px;
+}
+
+.contact-info{
+display:flex;
+flex-direction:column;
+gap:20px;
+}
+
+.contact-info div{
+display:flex;
+align-items:center;
+gap:15px;
+font-size:18px;
+}
+
+.contact-info svg{
+font-size:22px;
+color:#A67C52;
+}
+
+.contact-form{
+display:flex;
+flex-direction:column;
+gap:20px;
+}
+
+.contact-form input,
+.contact-form textarea{
+padding:18px;
+border:1px solid #ddd;
+border-radius:12px;
+font-size:16px;
+outline:none;
+}
+
+.contact-form button{
+padding:16px;
+background:#111;
+color:#fff;
+border:none;
+border-radius:35px;
+font-size:17px;
+cursor:pointer;
+transition:.3s;
+}
+
+.contact-form button:hover{
+background:#A67C52;
+}
