@@ -61,7 +61,7 @@ function Hero() {
         transition={{duration:1}}
       >
 
-        <img src="/assets/profile.png" alt="Manimela Naga Chakri" />
+        <img src="/assets/profile.jpeg" alt="Manimela Naga Chakri" />
 
       </motion.div>
 
